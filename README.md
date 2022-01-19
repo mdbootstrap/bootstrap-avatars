@@ -18,20 +18,20 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 
 ## More examples
 
-Bootstrap Avatar image with shadow:
-![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/shadow.png)
+[Bootstrap Avatar image with shadow:
+![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/shadow.png)](https://mdbootstrap.com/docs/standard/extended/avatar/#section-with-shadows)
 
-Bootstrap Avatar inside a profile card:
-![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/profile.png)
+[Bootstrap Square Avatar:
+![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/square.png)](https://mdbootstrap.com/docs/standard/extended/avatar/#section-square)
 
-Bootstrap Avatar inside navbar:
-![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/navbar.png)
+[Bootstrap Avatar avatar with sample content:
+![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/content.png)](https://mdbootstrap.com/docs/standard/extended/avatar/#section-with-content)
 
-Bootstrap Avatar avatar with sample content:
-![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/content.png)
+[Bootstrap Avatar inside navbar:
+![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/navbar.png)](https://mdbootstrap.com/docs/standard/extended/avatar/#section-inside-the-navbar)
 
-Bootstrap Square Avatar:
-![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/square.png)
+[Bootstrap Avatar inside testimonial cards:
+![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/testimonials.png)](https://mdbootstrap.com/docs/standard/extended/avatar/#section-testimonials)
 
-Bootstrap Avatar inside testimonial cards:
-![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/testimonials.png)
+[Bootstrap Avatar inside a profile card:
+![Bootstrap 5 Avatar](https://mdbootstrap.com/img/Marketing/github/avatar/profile.png)](https://mdbootstrap.com/docs/standard/extended/avatar/#section-profile)
