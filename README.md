@@ -16,6 +16,12 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 />
 ```
 
+
+## How to use?
+[📄 Documentation & usage guide](https://mdbootstrap.com/docs/standard/extended/avatar/)
+
+[▶️ Subscribe to YouTube channel for web development tutorials & resources](https://www.youtube.com/MDBootstrap?sub_confirmation=1)
+
 ## More examples
 
 [Bootstrap Avatar image with shadow:
