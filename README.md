@@ -25,8 +25,6 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 
 3. Copy & paste the code into your MDB project
 
-[📄 Full Documentation](https://mdbootstrap.com/docs/standard/extended/avatar/)
-
 [▶️ Subscribe to YouTube channel for web development tutorials & resources](https://www.youtube.com/MDBootstrap?sub_confirmation=1)
 
 ## More examples
