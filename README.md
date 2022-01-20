@@ -18,7 +18,16 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 
 
 ## How to use?
-[📄 Documentation & usage guide](https://mdbootstrap.com/docs/standard/extended/avatar/)
+
+How to use it?
+
+1. Download MDB 5 - free UI KIT
+
+2. Choose your favourite customized component and click on the image
+
+3. Copy & paste the code into your MDB project
+
+[📄 Full Documentation](https://mdbootstrap.com/docs/standard/extended/avatar/)
 
 [▶️ Subscribe to YouTube channel for web development tutorials & resources](https://www.youtube.com/MDBootstrap?sub_confirmation=1)
 
