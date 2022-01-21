@@ -1,5 +1,5 @@
 {
-  "name": "@mdbootstrap/bootstrap-avatar",
+  "name": "bootstrap-avatars",
   "version": "1.0.2",
   "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
   "main": "profile.html",
