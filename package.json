@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-avatar",
-  "version": "1.0.1",
+  "name": "@mdbootstrap/bootstrap-avatar",
+  "version": "1.0.2",
   "description": "Responsive Avatars built with Bootstrap 5",
   "main": "profile.html",
   "scripts": {
