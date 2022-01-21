@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-avatar",
+  "version": "1.0.1",
+  "description": "Responsive Avatars built with Bootstrap 5",
+  "main": "profile.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-avatar.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "avatar",
+    "bootstrap5",
+    "circle-image-view"
+  ],
+  "author": "mdbootstrap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-avatar/issues"
+  },
+  "homepage": "https://github.com/mdbootstrap/bootstrap-avatar#readme"
+}
