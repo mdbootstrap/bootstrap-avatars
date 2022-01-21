@@ -1,14 +1,14 @@
 {
   "name": "@mdbootstrap/bootstrap-avatar",
-  "version": "1.0.2",
-  "description": "Responsive Avatars built with Bootstrap 5",
+  "version": "1.0.3",
+  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
   "main": "profile.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatar.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
   },
   "keywords": [
     "bootstrap",
